@@ -13,3 +13,4 @@ zipp==3.18.2
 numpy==1.24.3
 scikit-learn==1.2.2
 joblib==1.2.0
+setuptools<66.0.0  # Ensure setuptools version compatible with Python 3.12
